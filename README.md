@@ -1,4 +1,5 @@
 # vue-todo
+this is just introdcutory setup
 
 ## Project setup
 ```
